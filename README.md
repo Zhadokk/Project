@@ -1,5 +1,7 @@
 **PROJECT TITLE**: Mini restaurant
 
+Repository: https://github.com/Zhadokk/Project/blob/main/README.md
+
 **DESCRIPTION:** 
 My project is a simple restaurant management system. It helps organize orders, reserve tables, create menus, and track reservations. If you have a restaurant or cafe, you can use this system to streamline operations and serve customers efficiently. It's particularly useful during busy hours when you need to quickly take orders and coordinate staff work.
 
